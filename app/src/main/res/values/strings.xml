@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Learning Project</string>
+    <string name="second_activity_title">Вторая Activity</string>
+
+    <string name="input_label">Текст или номер телефона</string>
+    <string name="open_second_activity">Открыть вторую Activity</string>
+    <string name="call_friend">Позвонить другу</string>
+    <string name="share_text">Поделиться текстом</string>
+    <string name="share_chooser_title">Поделиться через…</string>
+
+    <string name="error_empty_text">Введите текст</string>
+    <string name="error_invalid_phone">Введите корректный номер телефона</string>
+    <string name="error_no_dialer">Не найдено приложение для звонков</string>
+
+    <string name="received_text_label">Полученная строка:</string>
+    <string name="no_text_received">Текст не передан</string>
+    <string name="back">Назад</string>
 </resources>
